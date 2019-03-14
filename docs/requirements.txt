@@ -1,0 +1,6 @@
+# This is an implicit value, here for clarity
+#--index https://pypi.doubanio.com/simple/
+ 
+requests==1.2.0 
+Flask==0.10.1
+redis==2.10.5
